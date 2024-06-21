@@ -1,5 +1,7 @@
-## Tableau-HouseSales
+## Tableau Project with House Sales Data
 
-## About
+### About : Project that displays my proficency in Tableau
 
-Workbook contains interactive data that helps to understand, house sales throughout certain years, days and how that is affected by number of bedrooms, bathrooms, and geolocation! 
+This data was taken from Kaggle.com
+
+#### This Tableau dashboard contains interactive data that can help businesses understand sales trends and patterns. Provide Market Analysis as well as buyer and seller insights!
